@@ -1,1 +1,15 @@
 vendor
+yang belum diuplaod 
+1.laravel iluminate kurang
+2.league
+3.mockery
+4.monolog
+5.nesbot
+6.nikic
+7.php init
+8.psy
+9.ramsey
+10.sebastian
+11.swifmailer
+12.symfony
+13.voku
